@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1336406579 source:d:\codeblocks\tpag41\recherchetabou.cpp
+	"rechercheTabou.h"
+
+1336406627 d:\codeblocks\tpag41\recherchetabou.h
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<stdio.h>
+	"random.h"
+	"solution.h"
+
+1336406498 d:\codeblocks\tpag41\random.h
+	<stdlib.h>
+	<time.h>
+
+1336406719 d:\codeblocks\tpag41\solution.h
+	<math.h>
+	<stdio.h>
+	<iostream>
+	"random.h"
+
+1336406666 source:d:\codeblocks\tpag41\solution.cpp
+	"solution.h"
+
+1336406399 source:d:\codeblocks\tpag41\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	"random.h"
+	"rechercheTabou.h"
+	"solution.h"
+
+1430911807 source:d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	"random.h"
+	"rechercheTabou.h"
+	"solution.h"
+
+1336406500 d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\random.h
+	<stdlib.h>
+	<time.h>
+
+1336406628 d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\recherchetabou.h
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<stdio.h>
+	"random.h"
+	"solution.h"
+
+1336406720 d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\solution.h
+	<math.h>
+	<stdio.h>
+	<iostream>
+	"random.h"
+
+1336570308 source:d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\recherchetabou.cpp
+	"rechercheTabou.h"
+
+1336406668 source:d:\enseignements\2014-2015\p2015\ad70\recherche tabou\code\solution.cpp
+	"solution.h"
+
